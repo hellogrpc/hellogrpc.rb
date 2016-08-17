@@ -1,7 +1,7 @@
 
 spec = Gem::Specification.new do |s|
   s.name = 'hellogrpc'
-  s.version = '0.0.1471235537'
+  s.version = '0.0.1471414830'
   s.required_ruby_version = '>= 2.0.0'
   s.summary = 'Hello GRPC'
   s.description = 'Hello GRPC'
